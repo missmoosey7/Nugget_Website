@@ -995,6 +995,7 @@ a:hover {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -1134,7 +1135,7 @@ a:hover {
 }
 
 .contact-mf {
-  margin-top: 4rem;
+  margin-top: 0rem;
 }
 
 @media (min-width: 767px) {
